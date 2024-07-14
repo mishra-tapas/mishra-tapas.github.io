@@ -1,0 +1,281 @@
+@media (min-width: 1300px) {
+	
+}
+
+@media (max-width: 1600px) {
+	.container-fluid{
+	    width: 100%;
+	    padding-right: 15px;
+	    padding-left: 15px;
+	    margin-right: auto;
+	    margin-left: auto;
+	}
+	.banner-area .banner-text{
+		padding-left:0;
+		
+	}
+	.leaf-right{
+		display: none;
+	}
+	.leaf-left{
+		display:none;
+	}
+	.round-shape{
+		display:none;
+	}
+}
+
+/* Portrait tablets and medium desktops */
+@media (min-width: 992px) and (max-width: 1199px) {
+	.banner-area .banner-text{
+		padding-top: 14px;
+		
+	}
+	.header-area .menu-area .main-menu ul li a {
+		padding: 30px 30px 22px 30px;
+	}
+	.header-area.stick .menu-area .main-menu ul li a{
+		padding: 30px 30px 22px 30px;
+	}
+	.header-area .logo-area{
+		margin-top:30px;
+	}
+	.header-area.stick .logo-area{
+		margin-top:30px;
+	}
+	.footer-area .footer-top .single-address .address-info p {
+		font-size: 15px;
+	}
+	.portfolio-area .portfolio .filtering-button a {
+		margin-bottom: 10px;
+	}
+	.portfolio-page .portfolio .filtering-button a{
+		margin-bottom: 10px;
+	}
+	
+	.contact-page .contacr-info .single-contact-info .media .media-body p{
+		font-size:14px;
+	}
+}
+
+/* Portrait tablets and small desktops */
+@media  (max-width: 991px) {
+    .header-area{
+		display: none;
+	}
+	.mean-container .mean-nav ul li a span:before{
+		margin-left:0px;
+		margin-right: 10px;
+	}
+	.banner-area{
+		padding-top: 174px;
+	}
+	.banner-area .banner-text{
+		text-align: center;
+		margin-bottom: 30px;
+		padding-top: 0px;
+	}
+	.banner-right{
+		text-align: center;
+	}
+	.about-img {
+		margin-top: 30px;
+		text-align: center;
+	}
+	.fun-fact-area .single-counter {
+		text-align: center;
+		margin: 0 auto;
+		margin-bottom: 30px;
+	}
+	.freelancer-img{
+		text-align: center;
+		margin-top: 30px;
+	}
+	.testimonial-slide.owl-carousel.owl-theme {
+		margin-top: 30px;
+	}
+	.expart-area {
+		margin-bottom: 80px;
+	}
+	.portfolio-area .portfolio .filtering-button a {
+		margin-bottom: 10px;
+	}
+	.portfolio-page .portfolio .filtering-button a{
+		margin-bottom: 10px;
+	}
+	.footer-area .footer-top .single-address {
+		margin-top: 50px;
+	}
+	.copyright-area {
+		text-align: center;
+		margin-bottom:15px;
+	}
+	.social-media.text-right {
+		text-align: center;
+	}
+	.footer-area .footer-top .footer-top-contet {
+		margin-bottom: 0;
+	}
+	.footer-area .footer-top .footer-top-contet p {
+		margin-bottom: 0;
+	}
+	.happy-clint-area .clint-img {
+		padding-right: 0px;
+	}
+	.happy-clint-area .section-title {
+    margin-bottom: 20px;
+	}
+	.abou-myself-area .section-title {
+    margin-bottom: 20px;
+	}
+	.education-area .section-title {
+    margin-bottom: 10px;
+	}
+	.work-history-area .section-title {
+    margin-bottom: 10px;
+	}
+	.contact-page .contacr-info {
+    margin-top: -20px;
+	}
+	.freelancer-avaliable-area .freelancer-content {
+		padding-top: 0;
+	}
+	.section{
+		padding:60px 0;
+	}
+	.section-bottom{
+		padding-bottom:60px;
+	}
+	.section-title {
+    margin-bottom: 20px;
+	}
+	.about-area .section-title {
+    margin-bottom: 20px;
+	}
+	.about-area .about-info .about-btn {
+    margin-top: 25px;
+	}
+	.my-self-img {
+		margin-top: 30px;
+		text-align: center;
+	}
+	.adhivement-aware .award-img {
+		text-align: center;
+		margin-bottom: 40px;
+	}
+	.skill-area .single-skill {
+		width: 50%;
+		margin-top:30px;
+	}
+	.single-contact-info {
+		margin-top: 30px;
+	}
+	.form-igm {
+		text-align: center;
+		margin-bottom: 30px;
+	}
+	.portfolio-detail-page .Project-information {
+		margin-top: 40px;
+	}
+	
+}
+/* Landscape phones and portrait tablets */
+@media (max-width: 767px) {
+    .expart-area {
+		margin-bottom: 70px;
+	}
+	.service-area .expart-area .barcontainer {
+		margin: 0 auto;
+		margin-bottom: 80px;
+	}
+	.expart-area {
+		margin-bottom: 0;
+	}
+	.happy-clint-area .clint-img a.testimonial-five {
+		float: none;
+		margin: 0 auto;
+		margin-top:30px;
+	}
+	.happy-clint-area .clint-img a.testimonial-four {
+		margin: 0 auto;
+		margin-top:30px;
+	}
+	.happy-clint-area .clint-img a.testimonial-two{
+		margin-top:30px;
+	}
+	.happy-clint-area .clint-img a.testimonial-three{
+		margin-top:30px;
+	}
+	.happy-clint-area .clint-img a.testimonial-one {
+		margin: 0 auto;
+	}
+	.section-title h2 {
+		font-size: 40px;
+		line-height: 50px;
+		padding-top: 50px;
+	}
+	.section{
+		padding:40px 0;
+	}
+	.section-bottom{
+		padding-bottom:60px;
+	}
+	.breadcrumb_wrapper {
+		padding-top: 100px;
+		padding-bottom: 60px;
+	}
+	
+}
+
+/* Landscape phones and smaller */
+@media (max-width: 480px) {
+	.happy-clint-area .testimonial-slide .single-testimonial {
+		padding: 35px 10px 38px 10px;
+	}
+	.footer-area .footer-top .single-address .address-info p {
+		font-size: 14px;
+	}
+	.section-title h2 {
+		font-size: 30px;
+		line-height: 40px;
+	}
+	.portfolio-area .portfolio .filtering-button a {
+		padding: 8px 8px;
+	}
+	.portfolio-page .portfolio .filtering-button a{
+		padding: 8px 8px;
+	}
+	.skill-area .single-skill {
+		width: 100%;
+	}
+	.adhivement-aware .single-award {
+		padding: 35px 20px 30px 20px;
+	}
+	.adhivement-aware .single-award .award-top .year.pull-right{
+		float: left !important;
+		margin-bottom: 15px;
+	}
+	.portfolio-detail-page .Portfolio-details-content h2 {
+		font-size: 25px;
+		line-height: 35px;
+	}
+	.portfolio-detail-page .single-portfolio-img .catagory {
+		padding: 5px;
+	}
+	.portfolio-detail-page .single-portfolio-img .catagory h3 {
+		font-size: 16px;
+		line-height: 26px;
+	}
+	
+}
+@media (max-width: 375px) {
+	.banner-area .banner-text h1 {
+		font-size: 50px;
+	}
+	.abou-myself-area .about-myself table tr td b {
+		margin: 0 8px;
+	}
+}
+@media (max-width: 320px) {
+	
+}
